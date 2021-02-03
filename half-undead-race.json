@@ -52,7 +52,12 @@
 						"You lose any spellcasting you had from your original race (but not your class). You additionally must lose two other racial abilities of your choice (or not your choice), if possible (you do not lose proficiencies or feats)"
 					]
 				}
-			]
+			],
+			"fluff": {
+				"languageProficiencies": [
+					"commom": true
+				]
+			}
 		}
 	],
 	"subraces": [
