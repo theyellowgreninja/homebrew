@@ -55,7 +55,9 @@
 			],
 			"fluff": {
 				"languageProficiencies": [
-					"commom": true
+					{
+						"common": true
+					}
 				]
 			}
 		}
