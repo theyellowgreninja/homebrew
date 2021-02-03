@@ -18,7 +18,7 @@
 	},
 	"race": [
 		{
-			"name": "Half Ghost",
+			"name": "Half Undead",
 			"source": "A Spy's Guide to Wrifera",
 			"page": "10",
 			"ability": [
@@ -46,7 +46,7 @@
 					]
 				},
 				{
-					"type": "entries"
+					"type": "entries",
 					"name": "Undead Takeover",
 					"entries": [
 						"You lose any spellcasting you had from your original race (but not your class). You additionally must lose two other racial abilities of your choice (or not your choice), if possible (you do not lose proficiencies or feats)"
