@@ -1,0 +1,94 @@
+{
+	"_meta": {
+		"sources": [
+			{
+				"json": "GuideToWrifera",
+				"abbreviation": "SGW",
+				"full": "ASpysGuideToWrifera",
+				"authors": [
+					"theyellowgreninja"
+				],
+				"version": "1.0.0",
+				"url": "https://google.com",
+				"targetSchema": "1.0.0"
+			}
+		],
+		"dateAdded": 0,
+		"dateLastModified": 0
+	},
+	"race": [
+		{
+			"name": "Half Ghost",
+			"source": "A Spy's Guide to Wrifera",
+			"page": "10",
+			"ability": [
+				{
+	        "con": 2,
+	        "str": 1
+				}
+			],
+			"size": "M",
+			"speed": 25,
+			"darkvision": 60,
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Being from Below",
+					"entries": [
+						"You have Vulnerability to Radiant Damage"
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Sleepless Horror",
+					"entries": [
+						"You have resistance to poison and necrotic damage, as well as immunity to the poisoned and exhaused conditions.  You do not need to eat, sleep, drink, or breathe."
+					]
+				},
+				{
+					"type": "entries"
+					"name": "Undead Takeover",
+					"entries": [
+						"You lose any spellcasting you had from your original race (but not your class). You additionally must lose two other racial abilities of your choice (or not your choice), if possible (you do not lose proficiencies or feats)"
+					]
+				}
+			]
+		}
+	],
+	"subraces": [
+		{
+			"name": "Skeleton",
+			"source": "A Spy's Guide to Wrifera",
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Skeletal Fragility",
+					"entries": [
+						"You have vulnerability to Bludgeoning Damage"
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Marrow-Made Weapons",
+					"entries": [
+						"You can borrow your own bones to use as a weapon. As a bonus action, you can remove one bone from your exposed skeleton to use as a weapon. When you do, your maximum hit points lower by 1d4 (and if that would put your current hit points over your maximum hit points, your current hit points lower as well). These weapons do 1d4 damage of a physical damage type of your choice (Slashing, Piercing, Bludgeoning), and have the Light feature, as well as a thrown range of (20/60). You are proficient with these weapons. These weapons become more powerful as you level up. At level 3, they deal 1d6 damage, and at level 7, they deal 1d8. These weapons counts as magical for the purpose of overcoming non-magical resistances"
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Clacking Bones",
+					"entries": [
+						"You gain proficiency in the performace skill"
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Building Bones",
+					"entries": [
+						"If you, for whatever reason, lose any of your exposed bones, they can grow back over the course of a week. Aditionally, you can choose to grow extra bones. Once per week, given you aren't regrowing any bones, you can choose to grow yourself a new bone, to use for various things. Maybe you want to grow a bone dagger or a set of bone darts. Maybe you want a bone orb to use as a spellcasting focus. Maybe you would like a 10 foot bone pole. It is up to the DMs discretion what you can and can't grow, but there are some conditions: The object must be small enough to hold comfortably in one hand. The object cannot be magical, nor imitate an item that exceeds 30g in value. You can also choose to speed up this process, for a price. You may choose to speed up this process (either regrowing bone or growing excess bone), to have it take one long rest, as opposed to one week. However, if you choose to do this, you suffer the following consequences: You cannot use your Marrow-Made Weapons for one week, you cannot grow any bones for one week, and you have disadvantage on stealth and sleight of hand checks for two days."
+					]
+				}
+			]
+		}
+	]
+}
